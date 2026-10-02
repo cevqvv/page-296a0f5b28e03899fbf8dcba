@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0178e67af4d852b5d28361c0",
+  "owner": "cevqvv",
+  "repo": "page-296a0f5b28e03899fbf8dcba",
+  "title": "二次元",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "296a0f5b28e03899fbf8dcba",
+      "a": "二次元",
+      "b": "",
+      "entity": "二次元",
+      "brand": "二次元",
+      "separator": "",
+      "path": "index.html",
+      "hash": "84da4de272dfd65c8cb53c44be3db575fd40a1dd94284139bf87c2ccaec8662d",
+      "content": {
+        "keyword1": "二次元",
+        "keyword2": "",
+        "primary_entity": "二次元",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "二次元是面向二次元用户的VPN机场官方网站，提供高速梯子加速、稳定订阅节点与多平台客户端下载，支持流媒体解锁与游戏加速。",
+          "AI_DESCRIPTION": "二次元是面向二次元用户的VPN机场官方网站，提供高速梯子加速、稳定订阅节点与多平台客户端下载，支持流媒体解锁与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F3EC;color:#1C2B24;line-height:1.75;font-size:17px}a{color:#246B4A;text-decoration:underline}header{background:#1E4D3A;color:#F6F3EC;padding:18px 16px}header .brand{font-size:1.25rem;font-weight:700;letter-spacing:.04em}nav{margin-top:10px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#D5EBDD;text-decoration:none;font-size:.95rem}.wrap{max-width:740px;margin:0 auto;padding:8px 16px 32px}main{display:block}h1{font-size:1.7rem;line-height:1.35;color:#1E4D3A;margin:22px 0 12px}h2{font-size:1.32rem;color:#1E4D3A;margin:30px 0 12px;padding-bottom:6px;border-bottom:2px solid #2E7D5B}h3{font-size:1.08rem;color:#245C45;margin:18px 0 8px}p,li{overflow-wrap:anywhere;word-wrap:break-word}p{margin:0 0 12px}.lead{font-size:1.02rem;color:#24362C}.card{background:#fff;border:1px solid #D3E0D7;border-radius:10px;padding:16px;margin:12px 0}.featured{border:2px solid #1E4D3A;background:#F1F7F3}.badge{display:inline-block;background:#1E4D3A;color:#F6F3EC;font-size:.78rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.price{font-size:1.35rem;font-weight:700;color:#1E4D3A;margin:4px 0}.subprice{font-size:.92rem;color:#4A6256;margin-bottom:8px}ul.feat{padding-left:1.2em;margin:8px 0 0}ul.feat li{margin:4px 0}.steps{list-style:none;margin:12px 0;padding:0}.steps li{position:relative;background:#fff;border:1px solid #D3E0D7;border-radius:10px;padding:14px 14px 14px 52px;margin:0 0 12px}.num{position:absolute;left:12px;top:14px;width:28px;height:28px;border-radius:50%;background:#1E4D3A;color:#F6F3EC;font-weight:700;font-size:.9rem;text-align:center;line-height:28px}details{background:#fff;border:1px solid #D3E0D7;border-radius:8px;margin:8px 0;padding:10px 14px}summary{font-weight:650;color:#1E4D3A}details p{margin:8px 0 4px;color:#24362C}.note{font-size:.92rem;color:#4A6256}footer{background:#1E4D3A;color:#E4F0E9;padding:22px 16px;font-size:.9rem}footer a{color:#D5EBDD}footer .inner{max-width:740px;margin:0 auto}footer h2{color:#F6F3EC;border-bottom-color:#3D8B6A;font-size:1.05rem;margin-top:8px}.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0 16px}</style><header><div class=\"brand\">二次元官网</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">上手步骤</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a></nav></header><main class=\"wrap\"><h1>二次元 — 二次元VPN机场官方网站</h1><p class=\"lead\">二次元提供面向二次元爱好者的高速梯子与机场订阅服务。在二次元官网可查看套餐、选择客户端并完成订阅导入，用于跨境访问、追番解锁与游戏加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>二次元是以订阅制机场为核心的网络加速平台，强调线路稳定、节点可切换，以及与主流代理客户端的兼容。与单一出口的传统 VPN 不同，二次元将流量套餐、节点池和客户端配置拆开：用户按月或按年获取订阅链接，再在本机客户端中导入，即可按场景选择普通线路、流媒体线路或游戏优化线路。</p><p>服务定位覆盖个人追番、多设备家庭与小型团队协作。节点侧提供常规中转与部分 IPLC 专线能力（视套餐而定），并针对常见海外流媒体做连通性优化。二次元官方网站是获取套餐说明、客户端选择指引与下载说明的唯一入口，请勿通过来路不明的安装包导入订阅。</p><p>品牌名称「二次元」保留其原有文化指向：面向动画、漫画、游戏与同人创作人群的跨境访问需求，同时保持通用加速能力，不把产品绑定单一内容站。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为二次元当前公开套餐。流量为当月可用的极速流量额度，到期或用尽后按套餐规则重置或停用。年付价格已在各档标明，适合长期使用。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版 <span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article><p class=\"note\">设备数指同时在线的客户端会话。轻度浏览与追番优先基础版；多端切换、游戏与完整流媒体解锁优先旗舰版；工作室或共用账号场景使用团队版。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>海外追番与流媒体</h3><p>在版权分区导致无法播放时，通过旗舰版或团队版的原生解锁节点访问常见视频平台。基础版提供基础解锁，适合对片源要求不极端的日常观看。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，用于降低跨区匹配的抖动。仍建议在客户端中单独选择游戏策略组，避免把大流量下载走专线。</p><h3>资料检索与社交</h3><p>学术页面、开源仓库、国际社交与创作社区访问，可使用普通线路节点池，把专线留给延迟敏感应用。</p><h3>多设备与小型团队</h3><p>同一订阅在手机、电脑与路由之间分配。团队版提高并发与带宽预留，并支持按业务拆分路由，减少互相抢占。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>二次元不绑定单一闭源客户端。订阅为通用链接，导入主流开源或官方商店客户端即可。选择原则：系统官方商店优先、内核可更新、能分流规则。以下按平台给出二次元官网推荐组合，作为客户端选择的核心依据。</p><h3>Windows</h3><p>推荐 Clash Verge Rev 或 Clash Meta 图形客户端，便于订阅更新、规则分流与系统代理。也可使用 v2rayN 作为备选。安装后仅导入二次元订阅，不要叠加来源不明的配置包。</p><h3>macOS</h3><p>轻量需求可用 Clash 系客户端；需要策略组与网界面板时使用 Surge。Mac 请从开发者站点或二次元官网下载说明中的渠道获取，避免修改过的 dmg。</p><h3>Android</h3><p>推荐 Clash Meta for Android。开启分应用代理，可让番剧应用走解锁节点、游戏走低延迟节点、国内应用直连，节省套餐流量。</p><h3>iOS 与 iPadOS</h3><p>常用 Shadowrocket 或 Quantumult X。从官方商店购买正版后，用「订阅」功能粘贴二次元链接并开启定期更新。不要使用描述文件乱发的企业签。</p><h3>路由器与电视盒</h3><p>OpenWrt 等可刷机环境使用 Clash / Mihomo 内核。客厅设备建议单独策略，避免 4K 缓冲占满个人套餐额度；多成员共用请直接考虑团队版。</p><p class=\"note\">同一账号请控制在套餐允许的同时在线数内。客户端本身通常免费，付费发生在二次元机场订阅，而不是二次元客户端授权。</p></section><section id=\"guide\"><h2>操作说明：纵向五步上手</h2><p>按下列顺序完成即可从二次元官网走到可连接状态，无需额外脚本或第三方「一键包」。</p><ol class=\"steps\"><li><span class=\"num\">1</span><h3>确认套餐与设备数量</h3><p>对照基础版、旗舰版、团队版的流量与并发，选择与追番、游戏或团队规模匹配的一档。需要完整流媒体与游戏线路时直接选旗舰版。</p></li><li><span class=\"num\">2</span><h3>获取机场订阅</h3><p>在二次元用户中心复制订阅链接（Clash / 通用格式按客户端选择）。链接属于个人凭证，不要发到公开群或网盘。</p></li><li><span class=\"num\">3</span><h3>下载对应客户端</h3><p>回到本页「客户端选择」与「官方下载」，按 Windows、Android、iOS 或 Mac 安装推荐客户端。只使用可核验来源的安装包。</p></li><li><span class=\"num\">4</span><h3>导入订阅并更新规则</h3><p>在客户端选择「从 URL 导入」，粘贴链接，开启自动更新。检查分流：国内直连、流媒体走解锁组、游戏走低延迟组。</p></li><li><span class=\"num\">5</span><h3>测速后连接</h3><p>先用延迟测试筛选节点，再开启系统代理或 TUN。无法播放时切换「流媒体」策略组，而不是反复开关整条 VPN。</p></li></ol></section><section id=\"download\"><h2>官方下载与订阅说明</h2><p>二次元官网下载指引只覆盖客户端获取方式与订阅导入，不提供来路不明的「破解版加速器」。Windows 与 Android 优先 Clash Meta 系；iOS 使用商店内 Shadowrocket 等；桌面进阶用户可搭配 Surge。安装完成后，仅添加二次元官方订阅地址。</p><p>若页面提示更新内核，优先在客户端内更新，而不是重新下载整个修改包。订阅失效时先在用户中心重置链接，再在客户端「更新订阅」，避免重复添加导致策略冲突。</p><p><a href=\"#clients\">查看客户端选择</a> · <a href=\"#guide\">返回上手步骤</a> · <a href=\"#faq\">阅读常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>二次元是 VPN 还是机场？和普通梯子有何不同？</summary><p>二次元以机场订阅方式提供多节点加速，用户在本地客户端中切换线路。相比单一 VPN 客户端内置的固定出口，机场更适合按追番、游戏、检索等场景分流，也便于更换节点而不重装软件。</p></details><details><summary>如何从二次元官网完成客户端下载？</summary><p>按本页客户端选择匹配系统：Windows 用 Clash 系，Android 用 Clash Meta，iOS 用商店内 Shadowrocket 等。安装后导入二次元订阅即可。客户端多为免费软件，费用对应的是节点与流量套餐。</p></details><details><summary>三个套餐应该怎么选？年付是否更合适？</summary><p>个人轻度与三设备以内选基础版；需要全节点流媒体与游戏专线选旗舰版；二十设备或需要定制路由选团队版。年付已分别标为 ¥150/年、¥350/年、¥850/年，长期使用成本更低。</p></details><details><summary>能否解锁流媒体？基础版够不够用？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁。若目标是稳定观看海外番剧与分区内容，优先旗舰版，并在客户端把对应 App 分到流媒体策略组。</p></details><details><summary>同时在线设备超了会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可能出现新设备无法连接或旧会话被挤下线。路由器科学上网也占用一个会话，请计入限额。</p></details><details><summary>节点波动或无法连接时如何处理？</summary><p>先更新订阅与规则，再换同区域其他节点。游戏请改走 IPLC 相关策略组。仍失败时通过工单反馈（旗舰版为优先支持）。不要频繁更换客户端重复导入同一链接。</p></details><details><summary>订阅链接泄露是否能作废？</summary><p>可以。在二次元用户中心重置订阅后，旧链接失效，再把新链接更新到各设备客户端。切勿把专属订阅发到论坛或网盘公开分享。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><h2>广告与合作</h2><p>二次元官网仅展示与加速服务相关的合作说明，不放置弹窗下载或来路不明的安装广告。若需品牌合作、团队版对接或内容共创，请通过官方渠道联系，拒绝任何要求预装插件的推广。</p><h2>友情链接</h2><div class=\"links\"><a href=\"#\">Clash 配置说明</a><a href=\"#\">Mihomo 内核笔记</a><a href=\"#\">分流规则入门</a><a href=\"#\">iOS 客户端指引</a><a href=\"#clients\">二次元客户端选择</a><a href=\"#download\">二次元官方下载</a></div><h2>站点地图</h2><p>本页为二次元官方网站主文档。完整 URL 列表见 <a href=\"#\">sitemap.xml</a>。栏目锚点：<a href=\"#intro\">简介</a>、<a href=\"#plans\">套餐</a>、<a href=\"#scenes\">场景</a>、<a href=\"#clients\">客户端</a>、<a href=\"#guide\">步骤</a>、<a href=\"#download\">下载</a>、<a href=\"#faq\">问答</a>。</p><p>二次元 · 二次元VPN机场官方网站 · 网络加速与客户端下载说明。请通过正规渠道获取订阅，合理使用跨境访问能力。</p></div></footer>",
+          "hash": "30302f52d309ee0f61bcc80468d1ca7680f8f79adaa59e5100e2b0c0279e33a4",
+          "seo": {
+            "title": "二次元官网 - 二次元VPN机场订阅与加速器客户端官方下载",
+            "keywords": "二次元,二次元VPN,二次元机场,二次元加速器,二次元客户端下载,二次元官网,梯子,网络加速,机场订阅,Clash,Shadowrocket",
+            "description": "二次元是面向二次元用户的VPN机场官方网站，提供高速梯子加速、稳定订阅节点与多平台客户端下载，支持流媒体解锁与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tianyangjob.cn",
+    "host": "p-76deb7f1b1.tianyangjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tianyangjob.cn",
+      "url": "https://tianyangjob.cn/",
+      "label": "飞数(Flyint)",
+      "apex": "tianyangjob.cn",
+      "kind": null,
+      "identity": "nkydahug/page-4f651b1200958709b3fdfd22"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "86d03f2721d98c0cd7f02a348932d22f1ef748b438e177809b1c1492eeff63d8",
+    "sitemap.xml": "bbca56a99159fe6e3c7e7fc7bac142c8c4aa122250d15124b638649c9d148a0f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "563ba869ae4e1d49a04b2df8ef2998fa935fad8c276845e64cc53fef28f89bb4",
+    "robots.txt": "c3f276bde5f019224a3e16daeb0125c61a2e147e559fecef030970555e409b35",
+    "295badc89c9ecf867ee2768f08e72cd0.txt": "dcf530ff77aae4ce8d9776022367ac9688eff72d15bad67145f8a2de43f17e12"
+  },
+  "revision": "cd79611f46cd42bc9ae5fc36eb07f64eef86178d2e8f065ef233330d5f9be4ed"
+}
